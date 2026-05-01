@@ -1,2 +1,2 @@
 # NLP-PROJECT
-Using Natural Language Processing for  Network  Monitoring and Configuration
+Design and implimentation of a self healing system that uses natural language to perform network monitoring and configuration
